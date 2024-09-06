@@ -1,0 +1,6 @@
+@SittyPruebaTecnica_HostAddress = http://localhost:5271
+
+GET {{SittyPruebaTecnica_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
